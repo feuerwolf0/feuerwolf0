@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirill Poletaev</h1>
 
-* <h3 align="left">👨‍💻 I’m currently learning **Python, Django, JavaScript**;</h3>
-* <h3 align="left"><a href="https://mpei.ru/" >👨‍🎓 MPEI</a> Student Business Informatics(3rd year);</h3>
+* <h3 align="left">👨‍💻 I’m currently learning **C++**;</h3>
+* <h3 align="left"><a href="https://mpei.ru/" >👨‍🎓 MPEI</a> Student Business Informatics(4rd year);</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
